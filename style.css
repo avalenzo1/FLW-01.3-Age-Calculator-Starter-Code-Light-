@@ -1,11 +1,22 @@
 img {
-    width: 500px;
+    height: 250px;
 }
 
 body {
-    background-color: #D5D3D2;
+    background-color: #70f5ff;
 }
 
 div {
     text-align: center;
+}
+
+h1{
+font-family: 'Permanent Marker', cursive;
+font-size: 50px
+}
+
+button {
+  border-radius: 20px;
+  font-family: 'Permanent Marker', cursive;
+  padding: 10px;
 }
